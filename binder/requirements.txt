@@ -10,3 +10,5 @@ ipyleaflet
 xarray
 pandas
 sidecar
+jupyter_bokeh
+ipywidgets_bokeh
